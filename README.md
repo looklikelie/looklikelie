@@ -7,8 +7,8 @@ Go backend developer
 - Mathematics Olympiad Winner at School
 - ITMO 4th grade
 - Second university track - "methods of data analysis"
-- Yandex intern Python dev october 2023 - march 2024 
-- Yandex intern Go dev april 2024 - october 2024 
+- Self projects october 2023 - march 2024 
+- Yandex Go intern dev april 2024 - october 2024 
 
 💻 Tech Stack:
 --
