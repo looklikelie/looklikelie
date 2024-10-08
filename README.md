@@ -26,4 +26,4 @@ Go backend developer
 [![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/64px-Telegram_logo.svg.png)](https://t.me/looklikelie)
 [![Twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/64px-Logo_of_Twitter.svg.png)](https://x.com/sewerefed)
 
-![](https://visitcount.itsvg.in/api?id=looklikelie&icon=0&color=0)
+[![](https://visitcount.itsvg.in/api?id=looklikelie&icon=0&color=0)](#)
