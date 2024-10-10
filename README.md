@@ -25,5 +25,7 @@ Go backend developer
 [![inst](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/64px-Instagram_logo_2022.svg.png)](https://instagram.com/looklikelie)
 [![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/64px-Telegram_logo.svg.png)](https://t.me/looklikelie)
 [![Twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/64px-Logo_of_Twitter.svg.png)](https://x.com/sewerefed)
+[![Steam](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/64px-Steam_icon_logo.svg.png)](https://steamcommunity.com/profiles/76561198085613041)
+[![Twitch](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twitch_logo.svg/64px-Twitch_logo.svg.png?20150410204019)](https://www.twitch.tv/looklikelie)
 
 [![](https://visitcount.itsvg.in/api?id=looklikelie&icon=0&color=0)](#Socials)
