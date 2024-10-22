@@ -8,7 +8,7 @@ Go backend developer
 - ITMO 4th grade
 - Second university track - "methods of data analysis"
 - Self projects october 2023 - march 2024 
-- Yandex Python intern dev april 2024 - october 2024 
+- Yandex Python intern dev august 2022 - january 2023
 
 💻 Tech Stack:
 --
